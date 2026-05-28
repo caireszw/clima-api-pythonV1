@@ -1,0 +1,128 @@
+[
+    {
+        "Dia": "2026-05-28",
+        "TemperaturaMaxima": 27.4,
+        "TemperaturaMinima": 24.0,
+        "TempeaturaMedia": 25.5,
+        "VelocidadeVento": 15.8,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 89
+    },
+    {
+        "Dia": "2026-05-29",
+        "TemperaturaMaxima": 27.3,
+        "TemperaturaMinima": 24.3,
+        "TempeaturaMedia": 25.6,
+        "VelocidadeVento": 15.1,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 89
+    },
+    {
+        "Dia": "2026-05-30",
+        "TemperaturaMaxima": 27.7,
+        "TemperaturaMinima": 24.8,
+        "TempeaturaMedia": 26.0,
+        "VelocidadeVento": 18.4,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 86
+    },
+    {
+        "Dia": "2026-05-31",
+        "TemperaturaMaxima": 27.9,
+        "TemperaturaMinima": 24.6,
+        "TempeaturaMedia": 26.2,
+        "VelocidadeVento": 16.6,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 86
+    },
+    {
+        "Dia": "2026-06-01",
+        "TemperaturaMaxima": 27.7,
+        "TemperaturaMinima": 24.8,
+        "TempeaturaMedia": 26.3,
+        "VelocidadeVento": 18.0,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 89
+    },
+    {
+        "Dia": "2026-06-02",
+        "TemperaturaMaxima": 27.5,
+        "TemperaturaMinima": 23.9,
+        "TempeaturaMedia": 25.5,
+        "VelocidadeVento": 13.7,
+        "Condicao": "Parcialmente nublado",
+        "ChanceChuva": 0
+    },
+    {
+        "Dia": "2026-06-03",
+        "TemperaturaMaxima": 27.4,
+        "TemperaturaMinima": 25.1,
+        "TempeaturaMedia": 26.1,
+        "VelocidadeVento": 14.0,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 89
+    },
+    {
+        "Dia": "2026-06-04",
+        "TemperaturaMaxima": 27.8,
+        "TemperaturaMinima": 25.6,
+        "TempeaturaMedia": 26.5,
+        "VelocidadeVento": 15.8,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 86
+    },
+    {
+        "Dia": "2026-06-05",
+        "TemperaturaMaxima": 27.4,
+        "TemperaturaMinima": 25.4,
+        "TempeaturaMedia": 26.2,
+        "VelocidadeVento": 14.8,
+        "Condicao": "Parcialmente nublado",
+        "ChanceChuva": 0
+    },
+    {
+        "Dia": "2026-06-06",
+        "TemperaturaMaxima": 27.2,
+        "TemperaturaMinima": 24.5,
+        "TempeaturaMedia": 25.9,
+        "VelocidadeVento": 16.2,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 0
+    },
+    {
+        "Dia": "2026-06-07",
+        "TemperaturaMaxima": 28.3,
+        "TemperaturaMinima": 23.7,
+        "TempeaturaMedia": 25.9,
+        "VelocidadeVento": 18.4,
+        "Condicao": "Sol",
+        "ChanceChuva": 0
+    },
+    {
+        "Dia": "2026-06-08",
+        "TemperaturaMaxima": 28.7,
+        "TemperaturaMinima": 24.6,
+        "TempeaturaMedia": 26.3,
+        "VelocidadeVento": 20.2,
+        "Condicao": "Parcialmente nublado",
+        "ChanceChuva": 0
+    },
+    {
+        "Dia": "2026-06-09",
+        "TemperaturaMaxima": 27.5,
+        "TemperaturaMinima": 25.2,
+        "TempeaturaMedia": 26.1,
+        "VelocidadeVento": 16.6,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 89
+    },
+    {
+        "Dia": "2026-06-10",
+        "TemperaturaMaxima": 28.2,
+        "TemperaturaMinima": 24.8,
+        "TempeaturaMedia": 26.3,
+        "VelocidadeVento": 19.4,
+        "Condicao": "Possibilidade de chuva irregular",
+        "ChanceChuva": 86
+    }
+]
